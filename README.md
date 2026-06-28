@@ -21,6 +21,27 @@ Aurelia is a luxury jewellery e-commerce website developed using WordPress, Elem
 - HTML
 - CSS
 
+- ## 📸 Website Screenshots
+
+### Home Page
+![Home Page](Screenshot%202026-06-22%20054645.png)
+
+### Products Page
+![Products Page](Screenshot%202026-06-22%20054833.png)
+
+### Product Details Page
+![Product Details](Screenshot%202026-06-22%20054853.png)
+
+### Our Story
+![Our Story](Screenshot%202026-06-22%20054939.png)
+
+### Contact Page
+![Contact Page](Screenshot%202026-06-22%20054952.png)
+
+### Shopping Cart
+![Shopping Cart](Screenshot%202026-06-22%20055021.png)
+
+
 ## 🌐 Live Demo
 
 **Website:** https://khusbhu.groupofdreams.com/
